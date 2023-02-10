@@ -1,8 +1,8 @@
 # learn-pattern
 学习设计模式
-菜鸟教程：https://www.runoob.com/design-pattern/design-pattern-tutorial.html
-廖雪峰教程：https://www.liaoxuefeng.com/wiki/1252599548343744/1264742167474528
-进击的java菜鸟：https://fhfirehuo.github.io/Attacking-Java-Rookie/Chapter04/designPatterns.html
+（[菜鸟教程](https://www.runoob.com/design-pattern/design-pattern-tutorial.html)、
+[廖雪峰教程](https://www.liaoxuefeng.com/wiki/1252599548343744/1264742167474528)、
+[进击的java菜鸟](https://fhfirehuo.github.io/Attacking-Java-Rookie/Chapter04/designPatterns.html)）
 
 补充：[UML图教程](https://cloud.tencent.com/developer/article/1684161)
 
